@@ -22,8 +22,8 @@ Eu gosto de empreender, tenho alguns projetos no [Instagram](https://www.instagr
 ## Hobbies
 
 Ciclismo /
-Artes marciais /
-Jiu-Jitsu
+Xadrez /
+Games
 
 ## Tempo livre
 
