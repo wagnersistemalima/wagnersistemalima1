@@ -34,9 +34,9 @@ Vou a missa
 
 ## Livros Lidos
 
-Engenharia de software por Ian Sommerville - estou lendo e curtindo
-Clean Code - Estou lendo e curtindo
-A arte da guerra por Sun Tzu 
+Engenharia de software por Ian Sommerville - estou lendo e curtindo/
+Clean Code - Estou lendo e curtindo/
+A arte da guerra por Sun Tzu/ 
 Effective Java - Ainda não li 100%, mas uso ele pra consulta
 
 <!--
