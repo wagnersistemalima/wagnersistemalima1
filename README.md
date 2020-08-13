@@ -1,6 +1,6 @@
 # **Wagner Lima** :man_student:
 ---
-### :pilot: Vou lembrar de vc com carinho, mas preciso seguir em frente :surfing_woman:
+:pilot: Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar mudanças. :surfing_woman:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/wagnersistemalima/)
 
