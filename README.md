@@ -1,4 +1,4 @@
-# **Wagner Lima** :man_student:
+# **Wagner Lima** :man_student: :brazil:
 ---
 💻Compartilhando um pouco da minha jornada
 
