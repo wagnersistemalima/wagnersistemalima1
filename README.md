@@ -1,8 +1,14 @@
 # **Wagner Lima** :man_student:
 ---
+💻Compartilhando um pouco da minha jornada
+
 :pilot: Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar mudanças. :surfing_woman:
 
+
+Fale comigo 👇🏼
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/wagnersistemalima/)
+
 
 ## Faculdade
 
@@ -10,7 +16,7 @@ Unifacisa - Campina Grande - PB / Estudande do curso Sistemas de Informação
 
 ## Trabalho
 
-Eu gosto de empreender, tenho alguns projetos no ![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https:https://www.instagram.com/saquinhosdeluxo/) Minha area de interesse é de desenvolvimento de sistemas comerciais, sistemas de gestão, automação, desenvolvimento web, e qualidade de software.
+Eu gosto de empreender, tenho alguns projetos no ![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https:https://www.instagram.com/saquinhosdeluxo/?hl=pt-br) Minha area de interesse é de desenvolvimento de sistemas comerciais, sistemas de gestão, automação, desenvolvimento web, e qualidade de software.
 
 
 ## Hobbies
