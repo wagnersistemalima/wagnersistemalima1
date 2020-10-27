@@ -1,4 +1,4 @@
-# **Eu sou Wagner Lima** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# **Eu sou Wagner Lima** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">, "São as ideias que nos conectam e não os algoritimos"
 ---
 💻Compartilhando um pouco da minha jornada
 
