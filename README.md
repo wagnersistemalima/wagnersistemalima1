@@ -40,10 +40,10 @@ Vou a missa
 
 ## Livros Lidos
 
-Engenharia de software por Ian Sommerville - estou lendo e curtindo/
-Clean Code - Estou lendo e curtindo/
+Engenharia de software por Ian Sommerville 
+Clean Code 
 A arte da guerra por Sun Tzu/ 
-Effective Java - Ainda não li 100%, mas uso ele pra consulta
+Effective Java - Uso ele pra consulta
 
 <!--
 **wagnersistemalima/wagnersistemalima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
