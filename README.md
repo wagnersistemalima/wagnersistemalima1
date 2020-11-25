@@ -33,7 +33,7 @@ Games
 ## Tempo livre
 
 Faço cursos para melhorar minhas skills e contribuir com minha carreira dev/
-Auxilio amigos que tem diculdades como dev ou que precisam de orientação /
+Auxilio amigos que tem dificuldades como dev ou que precisam de orientação /
 Assisto séries /
 Vejo familiares e amigos /
 Vou a missa
