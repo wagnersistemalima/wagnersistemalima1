@@ -21,7 +21,7 @@ Unifacisa - Campina Grande - PB / Estudande do curso Sistemas de Informação
 
 ## Trabalho
 
-Eu gosto de empreender, tenho alguns projetos no [Instagram](https://www.instagram.com/saquinhosdeluxo/?hl=pt-br) Minha area de interesse é de desenvolvimento de sistemas, dedicando ão estudo no desenvolvimento web service Rest no Back-end JAVA com SPRING BOOT e JPA/Hibernate, e no desenvolvimento web front-end com React JS.
+Eu gosto de empreender, tenho alguns projetos no [Instagram](https://www.instagram.com/saquinhosdeluxo/?hl=pt-br) mas minha área de interesse é em tecnologia, transformação Digital, desenvolvimento Web, software, segurança de dados.
 
 
 ## Hobbies
