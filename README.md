@@ -19,6 +19,12 @@ Fale comigo 👇🏼
 
 Unifacisa - Campina Grande - PB / Estudande do curso Sistemas de Informação
 
+## Especialização
+
+Digital House - Curso Desenvolvimento Web Full Stack - Front End + Back End aprendendo a fazer sites e sistemas web usando linguagens de programação (HTML, CSS, JavaScript, NodeJS), trabalhando em equipe usando metodologias ágeis (SCRUM). Cursando
+
+DevSuperior - Aluno do BootCamp Java e React JS da DevSuperior, onde desenvolvemos aplicações Backend, Frontend e Mobile. Cursando
+
 ## Trabalho
 
 Eu gosto de empreender, tenho alguns projetos no [Instagram](https://www.instagram.com/saquinhosdeluxo/?hl=pt-br) mas minha área de interesse é em tecnologia, transformação Digital, desenvolvimento Web, software, segurança de dados.
