@@ -19,11 +19,11 @@ Fale comigo 👇🏼
 
 Unifacisa - Campina Grande - PB / Estudande do curso Sistemas de Informação
 
-## Especialização
+## Desenvolvimento em progamação
 
 Digital House - Curso Desenvolvimento Web Full Stack - Front End + Back End aprendendo a fazer sites e sistemas web usando linguagens de programação (HTML, CSS, JavaScript, NodeJS), trabalhando em equipe usando metodologias ágeis (SCRUM). Cursando
 
-DevSuperior - Aluno do BootCamp Java e React JS da DevSuperior, onde desenvolvemos aplicações Backend, Frontend e Mobile. Cursando
+DevSuperior - Aluno do BootCamp Java e React JS da DevSuperior, onde desenvolvemos aplicações Web no Backend, Frontend e Mobile. Cursando
 
 ## Trabalho
 
