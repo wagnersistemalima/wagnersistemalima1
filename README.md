@@ -30,12 +30,6 @@ DevSuperior - Aluno do BootCamp Java e React JS da DevSuperior, onde desenvolvem
 Eu gosto de empreender, tenho alguns projetos no [Instagram](https://www.instagram.com/saquinhosdeluxo/?hl=pt-br) mas minha área de interesse é em tecnologia, transformação Digital, desenvolvimento Web, software, segurança de dados.
 
 
-## Hobbies
-
-Ciclismo /
-Xadrez /
-Games
-
 ## Tempo livre
 
 Faço cursos para melhorar minhas skills e contribuir com minha carreira dev/
