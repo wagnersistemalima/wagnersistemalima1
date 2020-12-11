@@ -25,6 +25,8 @@ Digital House - Curso Desenvolvimento Web Full Stack - Front End + Back End apre
 
 DevSuperior - Aluno do BootCamp Java e React JS da DevSuperior, onde desenvolvemos aplicações Web no Backend, Frontend e Mobile. Cursando
 
+Udemy - Java Completo 2020 Progamação Orientada a objeto + Projetos. Concluido!
+
 ## Trabalho
 
 Eu gosto de empreender, tenho alguns projetos no [Instagram](https://www.instagram.com/saquinhosdeluxo/?hl=pt-br) mas minha área de interesse é em tecnologia, transformação Digital, desenvolvimento Web, software, segurança de dados.
