@@ -21,11 +21,14 @@ Unifacisa - Campina Grande - PB / Estudande do curso Sistemas de Informação
 
 ## Desenvolvimento em progamação
 
-Digital House - Curso Desenvolvimento Web Full Stack - Front End + Back End aprendendo a fazer sites e sistemas web usando linguagens de programação (HTML, CSS, JavaScript, NodeJS), trabalhando em equipe usando metodologias ágeis (SCRUM). Cursando
+[Digital House - Curso Desenvolvimento Web Full Stack - Front End + Back End aprendendo a fazer sites e sistemas web usando linguagens de programação (HTML, CSS, JavaScript, NodeJS), trabalhando em equipe usando metodologias ágeis (SCRUM). Cursando!](https://www.digitalhouse.com/br/curso/desenvolvimento-web-full-stack?gclid=Cj0KCQiAzsz-BRCCARIsANotFgMwwMsuZ6NFFzz0LgKp3i9nuZqcQPeNHmqbjUJdhWLYP6VKeC5xdFsaAv0XEALw_wcB)
 
-DevSuperior - Aluno do BootCamp Java e React JS da DevSuperior, onde desenvolvemos aplicações Web no Backend, Frontend e Mobile. Cursando
+[DevSuperior - Aluno do BootCamp Java e React JS da DevSuperior, onde desenvolvemos aplicações Web no Backend, Frontend e Mobile. Cursando!](https://devsuperior.com.br/)
 
-Udemy - Java Completo 2020 Progamação Orientada a objeto + Projetos. Concluido!
+[Udemy - Java Completo 2020 Progamação Orientada a objeto + Projetos. Concluido!](https://www.udemy.com/course/java-curso-completo/)
+
+[Udemy - Microsserviços Java com Spring Boot e Spring Cloud. Cursando!](https://www.udemy.com/course/microsservicos-java-spring-cloud/)
+
 
 ## Trabalho
 
