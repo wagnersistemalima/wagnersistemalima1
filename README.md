@@ -32,7 +32,7 @@ Fale comigo 👇🏼
 
 ## Trabalho
 
-Eu gosto de empreender, tenho alguns projetos no [Instagram](https://www.instagram.com/saquinhosdeluxo/?hl=pt-br) mas minha área de interesse é em tecnologia, transformação Digital, desenvolvimento Web, software, segurança de dados.
+Eu gosto de empreender, tenho alguns projetos no [Instagram - @saquinhosdeluxo](https://www.instagram.com/saquinhosdeluxo/?hl=pt-br) onde, eu colaboro voluntariamente no projeto, especificamente no módulo de gestão da marca e produção do produto para venda na rede social. 
 
 
 ## Tempo livre
