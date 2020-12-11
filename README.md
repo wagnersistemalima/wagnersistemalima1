@@ -14,8 +14,7 @@ Fale comigo 👇🏼
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/wagnersistemalima/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wagner.sistemalima@gmail.com)](mailto:wagner.sistemalima@gmail.com)
-
-[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&color=14274e&link=https://whats.link/wagnerlimabraga)]
+[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&color=14274e&link=https://whats.link/wagnerlimabraga)](https://whats.link/wagnerlimabraga)
 
 ## Faculdade
 
