@@ -33,8 +33,13 @@ Fale comigo 👇🏼
 
 ## Trabalho
 
-Eu gosto de empreender, tenho alguns projetos no [Instagram - @saquinhosdeluxo](https://www.instagram.com/saquinhosdeluxo/?hl=pt-br) onde, eu colaboro voluntariamente no projeto, especificamente no módulo de gestão da marca e produção do produto para venda na rede social. 
+Eu gosto de empreender, tenho alguns projetos no [Instagram - @saquinhosdeluxo](https://www.instagram.com/saquinhosdeluxo/?hl=pt-br) onde, eu colaboro voluntariamente no projeto, especificamente no módulo de gestão da marca e produção do produto para venda na rede social.
 
+## Portfólio
+
+* Faça seu pedido que entregamos para você, projeto Web de delivery de pratos de refeição, desenvolvido em Java com Spring Boot no backend, e ReactJS no Front-end
+
+[DS Delivery](https://wagnersistemalimasds2.netlify.app/)
 
 ## Tempo livre
 
