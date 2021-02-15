@@ -7,7 +7,9 @@ System.out.printLn("São as ideias que nos conectam e não os algoritimos!");
 ---
 💻Compartilhando um pouco da minha jornada
 
-:pilot: Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar mudanças. :surfing_woman:
+:pilot: Sou de Campina Grande, um município brasileiro no estado da Paraíba, apaixonado por resolver problemas e aprender, e sempre aberto a novos desafios e pronto para enfrentar mudanças. Engenheiro de software em formação, desbravador na área de tecnologia. Desenvolvedor Full Stack em formação. Atualmente se especializando na stack Java/Spring Boot já com alguns projetos em portfólio, e (HTML, CSS, JavaScript, NodeJS) para web.
+No meu tempo livre assisto séries e filmes, vejo amigos e familiares. No esporte atualmente estou curtindo o Beach Tennis.
+ :surfing_woman:
 
 
 Fale comigo 👇🏼
@@ -41,13 +43,17 @@ Eu gosto de empreender, tenho alguns projetos no [Instagram - @saquinhosdeluxo](
 
 [DS Delivery](https://wagnersistemalimasds2.netlify.app/)
 
+
+* Achadinho Pets, um projeto web com HTML e CSS, o sistema mostra uma lista de Pets perdidos e achados, onde o usuário tem a opção de se cadastrar caso tenha perdido algum pet ou queira se tornar um voluntário e ajudar um animal de estimação perdido a encontrar seu lar. Um sistema simples com uma solução bem legal, utilizando o uso das tecnologias e a boa vontade das pessoas, movidas por um sentimento coletivo de solidariedade, as chances de reencontro são maiores.
+
+[Achadinho Pets](https://wagnersistemalima-achadinho-petz.netlify.app/)
+
+
+
 ## Tempo livre
 
 Faço cursos para melhorar minhas skills e contribuir com minha carreira dev/
-Auxilio amigos que tem dificuldades como dev ou que precisam de orientação /
-Assisto séries /
-Vejo familiares e amigos /
-Vou a missa
+Auxilio amigos que tem dificuldades como dev ou que precisam de orientação 
 
 ## Livros Lidos
 
