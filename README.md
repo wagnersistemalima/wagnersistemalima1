@@ -23,7 +23,7 @@ Fale comigo 👇🏼
 
 [Unifacisa - Campina Grande - PB / Estudande do curso Sistemas de Informação](https://www.unifacisa.edu.br/home)
 
-## Desenvolvimento em progamação
+## Desenvolvimento em progamação <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="60px">
 
 [Digital House - Curso Desenvolvimento Web Full Stack - Front End + Back End aprendendo a fazer sites e sistemas web usando linguagens de programação (HTML, CSS, JavaScript, NodeJS), trabalhando em equipe usando metodologias ágeis (SCRUM). Cursando!](https://www.digitalhouse.com/br/curso/desenvolvimento-web-full-stack?gclid=Cj0KCQiAzsz-BRCCARIsANotFgMwwMsuZ6NFFzz0LgKp3i9nuZqcQPeNHmqbjUJdhWLYP6VKeC5xdFsaAv0XEALw_wcB)
 
