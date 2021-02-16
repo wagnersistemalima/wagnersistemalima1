@@ -1,4 +1,5 @@
 # **Eu sou Wagner Lima** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> 
+![Alt text](https://media.giphy.com/media/Ll1rEkDebTIdO/giphy.gif)
 
 ```
 System.out.printLn("São as ideias que nos conectam e não os algoritimos!");
