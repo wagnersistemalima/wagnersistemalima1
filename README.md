@@ -8,7 +8,7 @@ System.out.printLn("São as ideias que nos conectam e não os algoritimos!");
 ---
 💻Compartilhando um pouco da minha jornada
 
-:pilot: Sou de Campina Grande, um município brasileiro no estado da Paraíba, apaixonado por resolver problemas e aprender, e sempre aberto a novos desafios e pronto para enfrentar mudanças. Engenheiro de software em formação, desbravador na área de tecnologia. Desenvolvedor Full Stack em formação. Atualmente se especializando na stack Java/Spring Boot já com alguns projetos em portfólio, e (HTML, CSS, JavaScript, NodeJS) para web.
+:pilot: Sou de Campina Grande, um município brasileiro no estado da Paraíba, apaixonado por resolver problemas e aprender, e sempre aberto a novos desafios e pronto para enfrentar mudanças. Futuro engenheiro de software, desbravador na área de tecnologia. Desenvolvedor Full Stack em formação. Atualmente se especializando na stack Java/Spring Boot já com alguns projetos em portfólio, e (HTML, CSS, JavaScript, NodeJS) para web.
 No meu tempo livre assisto séries e filmes, vejo amigos e familiares. No esporte atualmente estou curtindo o Beach Tennis.
  :surfing_woman:
 
