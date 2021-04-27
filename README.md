@@ -34,9 +34,21 @@ Fale comigo 👇🏼
 [Udemy - Microsserviços Java com Spring Boot e Spring Cloud. Cursando!](https://www.udemy.com/course/microsservicos-java-spring-cloud/)
 
 
-## Trabalho
+### Analytics ⚙️
 
-Eu gosto de empreender, tenho alguns projetos no [Instagram - @saquinhosdeluxo](https://www.instagram.com/saquinhosdeluxo/?hl=pt-br) onde, eu colaboro voluntariamente no projeto, especificamente no módulo de gestão da marca e produção do produto para venda na rede social.
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&count_private=true)
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=octocat&count_private=true&show_icons=true)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=octocat&hide_border=true)
+
+### Let's connect? 🤝
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/wagnersistemalima/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
+</p>
 
 ## Portfólio
 
