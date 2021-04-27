@@ -1,4 +1,4 @@
-# **Eu sou Wagner Lima** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> 
+# **Eu sou Wagner Lima, trabalho como Desenvolvedor Back-End Java / Kotlin na Zup Innovation.** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> 
 ![Alt text](https://media.giphy.com/media/Ll1rEkDebTIdO/giphy.gif) Trabalho como Desenvolvedor Back-End Java / Kotlin na Zup Innovation.
 
 ```
