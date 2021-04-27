@@ -8,9 +8,7 @@ System.out.printLn("São as ideias que nos conectam e não os algoritimos!");
 ---
 💻Compartilhando um pouco da minha jornada
 
-:pilot: Sou de Campina Grande, um município brasileiro no estado da Paraíba, apaixonado por resolver problemas e aprender, sempre aberto a novos desafios e pronto para enfrentar mudanças.
-No meu tempo livre assisto séries e filmes, vejo amigos e familiares. No esporte atualmente estou curtindo o Beach Tennis.
- :surfing_woman:
+:pilot: Sou de Campina Grande, um município brasileiro no estado da Paraíba, apaixonado por resolver problemas e aprender, sempre aberto a novos desafios e pronto para enfrentar mudanças. :surfing_woman:
 
 
 Fale comigo 👇🏼
