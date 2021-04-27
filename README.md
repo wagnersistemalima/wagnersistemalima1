@@ -1,5 +1,5 @@
 # **Eu sou Wagner Lima, trabalho como Desenvolvedor Back-End Java / Kotlin na Zup Innovation.** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> 
-![Alt text](https://media.giphy.com/media/Ll1rEkDebTIdO/giphy.gif) Trabalho como Desenvolvedor Back-End Java / Kotlin na Zup Innovation.
+![Alt text](https://media.giphy.com/media/Ll1rEkDebTIdO/giphy.gif) 
 
 ```
 System.out.printLn("São as ideias que nos conectam e não os algoritimos!");
@@ -8,7 +8,7 @@ System.out.printLn("São as ideias que nos conectam e não os algoritimos!");
 ---
 💻Compartilhando um pouco da minha jornada
 
-:pilot: Sou de Campina Grande, um município brasileiro no estado da Paraíba, apaixonado por resolver problemas e aprender, sempre aberto a novos desafios e pronto para enfrentar mudanças. Futuro engenheiro de software, desbravador na área de tecnologia. Desenvolvedor Full Stack em formação. Atualmente se especializando na stack Java/Spring Boot já com alguns projetos em portfólio, e (HTML, CSS, JavaScript, NodeJS) para web.
+:pilot: Sou de Campina Grande, um município brasileiro no estado da Paraíba, apaixonado por resolver problemas e aprender, sempre aberto a novos desafios e pronto para enfrentar mudanças.
 No meu tempo livre assisto séries e filmes, vejo amigos e familiares. No esporte atualmente estou curtindo o Beach Tennis.
  :surfing_woman:
 
