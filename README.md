@@ -60,12 +60,6 @@ Fale comigo 👇🏼
 [Achadinho Pets](https://wagnersistemalima-achadinho-petz.netlify.app/)
 
 
-
-## Tempo livre
-
-Faço cursos para melhorar minhas skills e contribuir com minha carreira dev/
-Auxilio amigos que tem dificuldades como dev ou que precisam de orientação 
-
 ## Livros Lidos
 
 * Engenharia de software por Ian Sommerville 
